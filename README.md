@@ -1,4 +1,4 @@
-# AWS
+# AWS-GLU
 
 # Laboratorio AWS Glue
 ## Arquitectura
