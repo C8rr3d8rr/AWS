@@ -3,6 +3,8 @@
 # Laboratorio AWS Glue
 ## Arquitectura
 
+[Diagrama en blanco.pdf](https://github.com/user-attachments/files/22059759/Diagrama.en.blanco.pdf)
+
 
 ## **Objetivo**
 * Construir un ETL (Extract, Transform, Load) en los servicios de AWS Glue.
