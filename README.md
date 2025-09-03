@@ -1,8 +1,7 @@
 # AWS
 # Laboratorio AWS Glue
 ## Arquitectura
-
-[Diagrama en blanco.pdf](https://github.com/user-attachments/files/22059759/Diagrama.en.blanco.pdf)
+[Uploading Plantilla_Creación de Empresa Final.docx…]()
 
 
 ## **Objetivo**
